@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajkumarbij&show_icons=true&theme=radical)](https://github.com/pankajkumarbij)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumarbij&layout=compact&langs_count=8&theme=monokai)](https://github.com/pankajkumarbij)
+
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pankajkumarbij&repo=Instagram-clone&show_icons=true&theme=bear)](https://github.com/pankajkumarbij/Instagram-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pankajkumarbij&repo=covid19-tracker&show_icons=true&theme=bear)](https://github.com/pankajkumarbij/covid19-tracker)
+-->

@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Pankaj Kumar Bijarniya
 
+![](https://komarev.com/ghpvc/?username=pankajkumarbij)
+
 <!--
 **pankajkumarbij/pankajkumarbij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

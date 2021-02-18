@@ -25,7 +25,7 @@ I am Pankaj Kumar Bijarniya
   <img src = "https://img.shields.io/badge/-Linux/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 </div>
 
-</br>
+</br></br>
 <!--
 **pankajkumarbij/pankajkumarbij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

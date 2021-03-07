@@ -48,3 +48,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pankajkumarbij&repo=Instagram-clone&show_icons=true&theme=bear)](https://github.com/pankajkumarbij/Instagram-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pankajkumarbij&repo=covid19-tracker&show_icons=true&theme=bear)](https://github.com/pankajkumarbij/covid19-tracker)
 -->
+
+## Connect with me
+
+Linkedin: https://www.linkedin.com/in/pankajkumarbij/

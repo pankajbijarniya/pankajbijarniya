@@ -1,5 +1,14 @@
 ### Hi there 👋
 I am Pankaj Kumar Bijarniya
+Currently pursuing B.Tech from IIIT Senapati, Manipur in Computer Science and Engineering Branch. I am a Full-Stack developer.
+
+## Connect with me
+
+[![Twitter Badge](https://img.shields.io/badge/-pankajkumarbij-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/pankajkumarbij/)](https://twitter.com/pankajkumarbij/)
+[![Instagram Badge](https://img.shields.io/badge/-pankajkumarbij-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/pankajkumarbij/)](https://instagram.com/pankajkumarbij)
+[![Linkedin Badge](https://img.shields.io/badge/-pankajkumarbij-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankajkumarbij/)](https://www.linkedin.com/in/pankajkumarbij/)
+[![Medium Badge](https://img.shields.io/badge/-@pankajkumarbij-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@pankajkumarbij/)](https://medium.com/@pankajkumarbij)
+[![Gmail Badge](https://img.shields.io/badge/-pankajbijarniya2004@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:pankajbijarniya2004@gmail.com)](mailto:pankajbijarniya2004@gmail.com)
 
 ## Technical Skills
 
@@ -48,7 +57,3 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pankajkumarbij&repo=Instagram-clone&show_icons=true&theme=bear)](https://github.com/pankajkumarbij/Instagram-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pankajkumarbij&repo=covid19-tracker&show_icons=true&theme=bear)](https://github.com/pankajkumarbij/covid19-tracker)
 -->
-
-## Connect with me
-
-Linkedin: https://www.linkedin.com/in/pankajkumarbij/

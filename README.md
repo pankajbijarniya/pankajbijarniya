@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Pankaj Kumar Bijarniya
+I am Pankaj Kumar Bijarniya, 
 Currently pursuing B.Tech from IIIT Senapati, Manipur in Computer Science and Engineering Branch. I am a Full-Stack developer.
 
 ## Connect with me

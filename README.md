@@ -7,7 +7,7 @@ Currently pursuing B.Tech from IIIT Senapati, Manipur in Computer Science and En
 [![Linkedin Badge](https://img.shields.io/badge/-pankajkumarbij-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankajkumarbij/)](https://www.linkedin.com/in/pankajkumarbij/)
 [![Github Badge](https://img.shields.io/badge/-pankajkumarbij-black?style=plastic&logo=github&logoColor=white&link=https://github.com/pankajkumarbij)](https://github.com/pankajkumarbij)
 [![Twitter Badge](https://img.shields.io/badge/-pankajkumarbij-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/pankajkumarbij/)](https://twitter.com/pankajkumarbij/)
-[![Portfolio Badge](https://img.shields.io/badge/-pankajkumarbij-orange?style=plastic&logo=firefox&logoColor=white&link=https://pankajkumarbij.herokuapp.com/)](https://pankajkumarbij.herokuapp.com/)</br>
+[![Portfolio Badge](https://img.shields.io/badge/-pankajkumarbij-orange?style=plastic&logo=firefox&logoColor=white&link=https://pankajkumarbij.herokuapp.com/)](https://pankajkumarbij.me/)</br>
 [![Gmail Badge](https://img.shields.io/badge/-pankajbijarniya2004@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:pankajbijarniya2004@gmail.com)](mailto:pankajbijarniya2004@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@pankajkumarbij-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@pankajkumarbij/)](https://medium.com/@pankajkumarbij)
 [![Instagram Badge](https://img.shields.io/badge/-pankajkumarbij-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/pankajkumarbij/)](https://instagram.com/pankajkumarbij)

@@ -27,22 +27,23 @@ Software Engineer with 3+ years’ experience in full-stack web and mobile devel
 ## 🛠️ Technical Skills
 
 <div style="flex-wrap: wrap; display: flex; gap: 8px">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js">
-  <img src="https://img.shields.io/badge/-React.js-%23212121?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express">
+  <img src="https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js">
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb">
+  <img src="https://img.shields.io/badge/-TailwindCSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud">
+  <img src="https://img.shields.io/badge/-Google%20Cloud-1A73E8?style=flat&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 </div>
 

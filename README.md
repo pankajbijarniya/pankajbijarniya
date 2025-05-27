@@ -17,9 +17,9 @@ Software Engineer with 3+ years’ experience in full-stack web and mobile devel
 
 ## ✉️ Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-pankajkumarbij-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pankajkumarbij/)](https://www.linkedin.com/in/pankajkumarbij/)
-[![Github Badge](https://img.shields.io/badge/-pankajkumarbij-black?style=plastic&logo=github&logoColor=white&link=https://github.com/pankajkumarbij)](https://github.com/pankajkumarbij)
-[![Portfolio Badge](https://img.shields.io/badge/-pankajkumarbij-orange?style=plastic&logo=firefox&logoColor=white&link=https://pankajkumarbij.com/)](https://pankajkumarbij.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-pankajbijarniya-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pankajbijarniya/)](https://www.linkedin.com/in/pankajbijarniya/)
+[![Github Badge](https://img.shields.io/badge/-pankajbijarniya-black?style=plastic&logo=github&logoColor=white&link=https://github.com/pankajbijarniya)](https://github.com/pankajbijarniya)
+[![Portfolio Badge](https://img.shields.io/badge/-pankajbijarniya-orange?style=plastic&logo=firefox&logoColor=white&link=https://pankajbijarniya.com/)](https://pankajbijarniya.com/)
 [![Gmail Badge](https://img.shields.io/badge/-pankajbijarniya2004@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:pankajbijarniya2004@gmail.com)](mailto:pankajbijarniya2004@gmail.com)
 
 ---
@@ -100,9 +100,9 @@ of resources.
 
 ## 📊 GitHub Stats
 
-[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajkumarbij&show_icons=true&theme=radical)](https://github.com/pankajkumarbij)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumarbij&layout=compact&langs_count=8&theme=monokai)](https://github.com/pankajkumarbij)
+[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajbijarniya&show_icons=true&theme=radical)](https://github.com/pankajbijarniya)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbijarniya&layout=compact&langs_count=8&theme=monokai)](https://github.com/pankajbijarniya)
 
 <!--
-**pankajkumarbij/pankajkumarbij** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**pankajbijarniya/pankajbijarniya** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
